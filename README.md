@@ -23,9 +23,9 @@ The project is organized into several main classes:
 
 ## Example Output
 
-"Welcome to your Media Library"
-Library owner: Alice
-Adding book The Hobbit
-Adding movie Inception
-Adding song Bohemian Rhapsody
-Total entries: 3
+- "Welcome to your Media Library" 
+- Library owner: Alice
+- Adding book The Hobbit
+- Adding movie Inception
+- Adding song Bohemian Rhapsody
+- Total entries: 3
